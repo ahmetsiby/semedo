@@ -855,6 +855,34 @@ video {
   background-image: url('../src/images/m3.webp');
 }
 
+.bg-\[url\(\'images\/1\.jpeg\'\)\] {
+  background-image: url('images/1.jpeg');
+}
+
+.bg-\[url\(\'images\/15\.jpeg\'\)\] {
+  background-image: url('images/15.jpeg');
+}
+
+.bg-\[url\(\'images\/2\.jpeg\'\)\] {
+  background-image: url('images/2.jpeg');
+}
+
+.bg-\[url\(\'images\/fixe\.webp\'\)\] {
+  background-image: url('images/fixe.webp');
+}
+
+.bg-\[url\(\'images\/m21\.webp\'\)\] {
+  background-image: url('images/m21.webp');
+}
+
+.bg-\[url\(\'images\/m23\.webp\'\)\] {
+  background-image: url('images/m23.webp');
+}
+
+.bg-\[url\(\'images\/m3\.webp\'\)\] {
+  background-image: url('images/m3.webp');
+}
+
 .bg-cover {
   background-size: cover;
 }
